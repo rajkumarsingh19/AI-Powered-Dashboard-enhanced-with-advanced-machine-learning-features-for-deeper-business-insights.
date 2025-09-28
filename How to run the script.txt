@@ -1,0 +1,3 @@
+run cmd over the folder where you have same data set and python file than run below commend:
+
+streamlit run streamlit_app.py 
